@@ -15,7 +15,7 @@ var ATversion = '2.1.5.3-genbtc-1-10-2016+Modular';
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////
 var atscript = document.getElementById('AutoTrimps-script')
-  , base = 'https://genbtc.github.io/AutoTrimps/'
+  , base = 'https://github.com/honbag/honbagat2/'
   , module = 'modules/'
   ;
 if (atscript !== null) {
