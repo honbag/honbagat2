@@ -11,5 +11,5 @@
 
 var script = document.createElement('script');
 script.id = 'AutoTrimps-script';
-script.src = 'https://github.com/honbag/honbagat2/AutoTrimps2.js';
+script.src = 'https://raw.githubusercontent.com/honbag/honbagat2/gh-pages/AutoTrimps2.js';
 document.head.appendChild(script);
