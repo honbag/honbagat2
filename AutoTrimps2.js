@@ -8,7 +8,7 @@
 // @include      *kongregate.com/games/GreenSatellite/trimps
 // @grant        none
 // ==/UserScript==
-var ATversion = '2.1.5.3-genbtc-1-10-2016+Modular';
+var ATversion = '2.1.5.3-honbag';
 
 ////////////////////////////////////////////////////////////////////////////////
 //Main Loader Initialize Function (loads first, load everything else)///////////
