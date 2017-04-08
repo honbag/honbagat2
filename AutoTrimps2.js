@@ -15,7 +15,7 @@ var ATversion = '2.1.5.3-honbag';
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////
 var atscript = document.getElementById('AutoTrimps-script')
-  , base = 'https://raw.githubusercontent.com/honbag/honbagat2'
+  , base = 'https://github.com/honbag/honbagat2/blob/gh-pages/'
   , module = 'modules/'
   ;
 if (atscript !== null) {
